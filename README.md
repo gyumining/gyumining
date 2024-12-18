@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=hi%20gyumin%20git%20hub&animation=fadeIn&fontColor=FFFFFF&fontSize=60&font=Tahoma" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ㅇㅅㅇ </div> 
+    </div>
+    <div style="text-align: left;"> 
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+<div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gyumining&show_icons=true&theme=radical" alt="Gyumining's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyumining&layout=compact" alt="Top Languages" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyumining&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyumining&layout=compact)
 
